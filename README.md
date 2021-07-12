@@ -3,7 +3,7 @@
 	<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
 		<img
 			align="center"
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheProParadox&langs_count=6&theme=radical&layout=compact"
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheProParadox&langs_count=5&theme=radical&layout=compact"
 			height="150" />
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
