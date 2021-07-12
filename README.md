@@ -155,6 +155,7 @@
 				height="50"
 				alt="NPM" />
 		</a>
+	</p>
 
 	<p>
 	<br />
