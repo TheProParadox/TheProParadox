@@ -3,13 +3,13 @@
 	<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
 		<img
 			align="center"
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=iannisdezwart&langs_count=5&theme=radical&layout=compact"
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheProParadox&langs_count=4&theme=radical&layout=compact"
 			height="150" />
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
 		<img
 			align="center"
-			src="https://github-readme-stats.vercel.app/api?username=iannisdezwart&count_private=true&theme=radical&show_icons=true"
+			src="https://github-readme-stats.vercel.app/api?username=TheProParadox&count_private=true&theme=radical&show_icons=true"
 			height="150" />
 	</a>
 	<br />
