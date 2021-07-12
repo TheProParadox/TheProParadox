@@ -118,7 +118,7 @@
 	<a href="https://github.com/TheProParadox/Web-Synthesizor">
 		<img
 			align="center"
-			src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=Web-Synthesizorr&theme=radical"
+			src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=Web-Synthesizor&theme=radical"
 			width="350" />
 	</a>
 	
