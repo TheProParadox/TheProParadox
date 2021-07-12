@@ -115,10 +115,10 @@
 			src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=Ascii-Rickroll&theme=radical"
 			width="350" />
 	</a>
-	<a href="https://github.com/TheProParadox/Web-Synthesizor">
+	<a href="https://github.com/TheProParadox/DinoGameML">
 		<img
 			align="center"
-			src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=Web-Synthesizor&theme=radical"
+			src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=DinoGameML&theme=radical"
 			width="400" />
 	</a>
 	
