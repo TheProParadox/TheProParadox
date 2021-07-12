@@ -110,7 +110,7 @@
 	<p>
 	<br />
 	<h3>💻 Some of my cool projects 😄</h3>
-	<a href="https://github.com/https://github.com/TheProParadox/Ascii-Rickroll">
+	<a href="https://github.com/TheProParadox/Ascii-Rickroll">
 			<img
 			align="center"
 			src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=Ascii-Rickroll&theme=radical"
