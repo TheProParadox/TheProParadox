@@ -119,7 +119,7 @@
 		<img
 			align="center"
 			src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=Web-Synthesizor&theme=radical"
-			width="350" />
+			width="370" />
 	</a>
 	
 	
