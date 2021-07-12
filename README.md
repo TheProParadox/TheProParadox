@@ -106,22 +106,35 @@
 				height="50"
 				alt="Bash" />
 		</a>
-		
 	<p>
 	<br />
 	<h3>💻 Some of my cool projects 😄</h3>
-	<a href="https://github.com/TheProParadox/Ascii-Rickroll">
+	<a href="https://github.com/iannisdezwart/contajs">
 			<img
 			align="center"
-			src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=Ascii-Rickroll&theme=radical"
+			src="https://github-readme-stats.vercel.app/api/pin/?username=iannisdezwart&repo=contajs&theme=radical"
 			width="350" />
 	</a>
-	<a href="https://github.com/TheProParadox/Web-Synthesizor">
+	<a href="https://github.com/iannisdezwart/forcefield-visualiser">
 		<img
 			align="center"
-			src="https://github-readme-stats.vercel.app/api/pin/?username=TheProParadox&repo=Web-Synthesizor&theme=radical"
+			src="https://github-readme-stats.vercel.app/api/pin/?username=iannisdezwart&repo=forcefield-visualiser&theme=radical"
 			width="350" />
 	</a>
+	<a href="https://github.com/iannisdezwart/beat-dash">
+		<img
+			align="center"
+			src="https://github-readme-stats.vercel.app/api/pin/?username=iannisdezwart&repo=beat-dash&theme=radical"
+			width="350" />
+	</a>
+	<a href="https://github.com/iannisdezwart/tea">
+		<img
+			align="center"
+			src="https://github-readme-stats.vercel.app/api/pin/?username=iannisdezwart&repo=tea&theme=radical"
+			width="350" />
+	</a>	
+	
+	
 	
 </div>
 
