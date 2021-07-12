@@ -25,6 +25,7 @@
 				alt="" />
 		</a>
 		-->
+		
 		<a href="https://www.cplusplus.com/" target="_blank">
 			<img
 				align="center"
@@ -49,7 +50,14 @@
 				height="50"
 				alt="C" />
 		</a>
-		
+		<a href="https://www.typescriptlang.org/" target="_blank">
+			<img
+				align="center"
+				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+				width="50"
+				height="50"
+				alt="TypeScript" />
+		</a>
 		<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
 			<img
 				align="center"
@@ -75,7 +83,14 @@
 				alt="CSS" />
 		</a>
 		<br />
-	
+		<a href="https://www.electronjs.org/" target="_blank">
+			<img
+				align="center"
+				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+				width="50"
+				height="50"
+				alt="Electron JS" />
+		</a>
 		<a href="https://www.linux.org/" target="_blank">
 			<img
 				align="center"
@@ -99,6 +114,46 @@
 				width="50"
 				height="50"
 				alt="Bash" />
+		</a>
+		<a href="https://www.nginx.com/" target="_blank">
+			<img
+				align="center"
+				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+				width="50"
+				height="50"
+				alt="NGINX" />
+		</a>
+		<a href="https://www.mysql.com/" target="_blank">
+			<img
+				align="center"
+				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+				width="50"
+				height="50"
+				alt="MySQL" />
+		</a>
+		<a href="https://www.mongodb.com/" target="_blank">
+			<img
+				align="center"
+				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+				width="50"
+				height="50"
+				alt="MongoDB" />
+		</a>
+		<a href="https://nodejs.org/en/" target="_blank">
+			<img
+				align="center"
+				src="https://user-images.githubusercontent.com/38715718/114414595-3f638180-9baf-11eb-9ef1-420b1bb017f1.png"
+				width="50"
+				height="50"
+				alt="NodeJS" />
+		</a>
+		<a href="https://www.npmjs.com/" target="_blank">
+			<img
+				align="center"
+				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+				width="50"
+				height="50"
+				alt="NPM" />
 		</a>
 
 	<p>
