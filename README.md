@@ -13,16 +13,16 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Bhavik Chandna,a Senior at IITG!!
+  Hi, I’m Bhavik! 🚀 Currently an MS Computer Science student at UC San Diego, I’m diving headfirst into the whirlwind of AI’s rapid advancements—it feels like there’s a new dataset or method dropping every day! 
   <br>
   <br>
-  🔬 I'm currently studying ECE at IITG!!
+  🔬 My research span 2D/3D computer vision, explainable AI, and generative AI. I’ve also delved deep into research combining deep learning with applications in electronics and cybersecurity.
   <br>
-  🎓 I graduated from Modern Delhi Public School,Faridabad
+  🎓 I am a proud alum of IIT Guwahati, being an Electronics major!
   <br>
-  💻 My interests lie in understanding and developing deep learning systems mainly for Computer Vision and Natural Language Processing
+  💻 I aspire to contribute to groundbreaking models in Computer Vision and NLP—especially in image and video generation—while championing the safety, security, and ethics of AI. 🌟
   <br>
-  📚 I’m currently stuck in exams and stuff!!
+  📚 I’m currently stuck in classes, research!!
   <br>
   📫 How to reach me: <a href="mailto: bhavikchandna@gmail.com">bhavikchandna@gmail.com</a>
 </p>
